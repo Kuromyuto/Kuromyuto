@@ -8,7 +8,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kuromyuto&theme=tokyonight&show_icons=true" />
 </a>
 
-
+- Algumas das linguagens que costumo usar:
 <div>
 <img height=65 width=65 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img height=65 width=65 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
