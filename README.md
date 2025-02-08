@@ -5,7 +5,7 @@
 - 📫 Contate-me no email: arthurhtbastos@gmail.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" theme="tokyonight" src="https://github-readme-stats.vercel.app/api?username=Kuromyuto" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kuromyuto&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kuromyuto&layout=compact&langs_count=8&card_width=320" />
